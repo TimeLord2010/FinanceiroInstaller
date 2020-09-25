@@ -1,0 +1,30 @@
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\MainWindow.g.cs
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Steps\ChooseFolder.g.cs
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\App.g.cs
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer_MarkupCompile.cache
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer_MarkupCompile.lref
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Financeiro Installer.exe.config
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Financeiro Installer.exe
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Financeiro Installer.pdb
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\App.baml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\MainWindow.baml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Steps\ChooseFolder.baml
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.g.resources
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro_Installer.Properties.Resources.resources
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.csproj.CopyComplete
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.exe
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.pdb
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\DESKTOP\Documents\Trabalho\Clinica\Financeiro\Project\Financeiro Installer\obj\Debug\Financeiro Installer.csproj.ResolveComReference.cache
